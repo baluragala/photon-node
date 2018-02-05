@@ -1,0 +1,12 @@
+Training Program : node
+prerequisite : Intermediate JavaScript
+Instructor Name : Bala Krisha Ragala
+Training Duration : 3 Days
+Instructor Email : bala@zeolearn.com
+GIT Repository  : https://github.com/baluragala/photon-node.git
+Codeshare URL : https://codeshare.io/G8gVe4
+code editor used : VS CODE 1.19.3
+Node version : 8.9.4
+npm version : 5.6.0
+
+chrome://inspect
